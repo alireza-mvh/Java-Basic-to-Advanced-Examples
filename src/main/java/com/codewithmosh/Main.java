@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package main.java.com.codewithmosh;
 
 import java.awt.*;
 import java.util.Arrays;
